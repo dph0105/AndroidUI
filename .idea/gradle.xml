@@ -11,6 +11,8 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/beziercurve" />
             <option value="$PROJECT_DIR$/matrix" />
+            <option value="$PROJECT_DIR$/scroll" />
+            <option value="$PROJECT_DIR$/valueanim" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

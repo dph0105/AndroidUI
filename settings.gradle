@@ -1,1 +1,1 @@
-include ':app', ':beziercurve', ':matrix'
+include ':app', ':beziercurve', ':matrix', ':valueanim', ':scroll'
